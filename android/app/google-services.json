@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974421440624",
+    "project_id": "usersapp-dfdd5",
+    "storage_bucket": "usersapp-dfdd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974421440624:android:cce1e03b11bd60c1e35cb5",
+        "android_client_info": {
+          "package_name": "com.example.usersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-rAEnnRJlJVqSSsBrOWXwt7H9gUsWM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
